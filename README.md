@@ -1,0 +1,2 @@
+# dcs
+Dictionary compressed stream
